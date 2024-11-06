@@ -6729,7 +6729,7 @@ sub nic_porkbun_examples {
 o 'porkbun'
 
 The 'porkbun' protocol is used for porkbun (https://porkbun.com/).
-The API is documented here: https://api.porkbun.com/api/json/v3/documentation
+The API is documented here: https://porkbun.com/api/json/v3/documentation
 
 Before setting up, it is necessary to create your API Key by referring to the following page.
 
